@@ -11407,6 +11407,17 @@ p.lead {
   font-size: 3rem;
 }
 
+a.certificate {
+  text-decoration: none;
+  color: #6c757d;
+}
+
+a.certificate:hover{
+  color: #bd5d38;
+  text-shadow: #000;
+  font-weight: 600;
+}
+
 section.resume-section {
   display: flex;
   align-items: center;
